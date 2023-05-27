@@ -1,0 +1,26 @@
+.Bt{
+    
+    padding: 20px;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    border-radius: 30px;
+}
+.dag{
+    border-radius: 50px;
+    width: 400px;
+}
+.ska{
+    background-image: url('kapp.jpg');
+    background-size: cover;
+    padding: 10px;
+    color: rgb(255, 231, 234);
+    font-size: 20px;
+    text-align: center;
+    border-radius: 40px;
+}
+.button{
+    color: rgb(255, 251, 0);
+    background-color: blue;
+    border-radius: 25px;
+}
